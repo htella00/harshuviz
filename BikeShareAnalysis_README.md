@@ -18,7 +18,6 @@
 
 ### Findings 
 - To answer the question, Yes we can raise the prices for the upcoming year.
-- The dashboard shows a total revenue of 15.19M and a profit of 10.45M, indicating strong financial performance. This suggests that the bike-sharing service is generating significant revenue, with a healthy profit margin of 0.45.
 - The hourly sales data reveals that the most profitable hours are during the midday and early evening, particularly between 10 AM to 3 PM. This insight is critical for optimizing operations and possibly offering special promotions or adjusting pricing during these peak hours.
 - The "Sum of Revenue by Season" bar chart indicates that Season 3 (likely the summer months) is the most profitable, generating 4.9M in revenue. This suggests that customer demand is highest during this period, which could be leveraged for targeted marketing campaigns.
 - The "Sum of Riders by Rider Type" donut chart shows that 81.17% of riders are casual, while 18.83% are members. This demographic split highlights the importance of catering to casual riders, who form the majority of the customer base, while also exploring strategies to convert more casual riders into members.
